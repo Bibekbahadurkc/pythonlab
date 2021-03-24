@@ -1,0 +1,1 @@
+#WAP which accepts marks of four subjects and display total marks, percentage and grade.
